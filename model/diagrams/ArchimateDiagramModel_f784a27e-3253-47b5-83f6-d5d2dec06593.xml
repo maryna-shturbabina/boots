@@ -187,25 +187,13 @@
     <bounds
         x="60"
         y="144"
-        width="1213"
+        width="1081"
         height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="c1726856-fcd5-4f07-90f0-3c7abe3bb75f">
-      <bounds
-          x="144"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_d2673ab4-dff4-4696-b960-fd927d001d53.xml#d2673ab4-dff4-4696-b960-fd927d001d53"/>
-    </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aeeef72f-7848-486f-96ca-c8b907b4b644">
       <bounds
-          x="672"
+          x="540"
           y="60"
           width="120"
           height="55"/>
@@ -217,7 +205,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7b1b6ee7-e79c-46b0-bf13-71cc37f4b1a9">
       <bounds
-          x="805"
+          x="673"
           y="60"
           width="120"
           height="55"/>
@@ -241,7 +229,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4874e286-7cde-4d92-9c07-68e72218ee83">
       <bounds
-          x="936"
+          x="804"
           y="60"
           width="120"
           height="55"/>
@@ -253,7 +241,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="79c15d63-63a5-4a20-ae86-b6c1f451a479">
       <bounds
-          x="276"
+          x="144"
           y="60"
           width="120"
           height="55"/>
@@ -265,7 +253,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="5658ab13-c960-4d4b-9ce7-8946eafd3f14">
       <bounds
-          x="1069"
+          x="937"
           y="60"
           width="120"
           height="55"/>
@@ -278,7 +266,7 @@
         id="5655cd82-6f37-4b34-ac4f-57b936b50a7e"
         targetConnections="5e3a4c87-ed87-4e99-ad0e-958320f77734">
       <bounds
-          x="408"
+          x="276"
           y="60"
           width="120"
           height="55"/>
@@ -291,7 +279,7 @@
         id="17404da2-740f-49de-9a03-e18a733df181"
         targetConnections="13a764c8-9be0-4e5c-a547-e616388888cf">
       <bounds
-          x="540"
+          x="408"
           y="60"
           width="120"
           height="55"/>
